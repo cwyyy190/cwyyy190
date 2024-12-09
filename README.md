@@ -1,6 +1,6 @@
 # Hi👋 I'm Chong Win Yan
 
-## A passionate Software Enginner from [Malaysia]  
+## A passionate Software Enginner from Malaysia  
 
 - 🌱 I’m currently working on my [final year project](https://github.com/cwyyy190/Final-Year-Project)  
 - 🌿 I’m currently learning **Android**  
