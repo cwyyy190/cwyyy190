@@ -9,7 +9,7 @@
 - 📫 How to reach me **cwyyy190@gmail.com**  
   
 ### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chong-win-yan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-win-yan/)  
   
 ### Languages and Tools:  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
