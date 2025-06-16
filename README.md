@@ -1,12 +1,11 @@
 # Hi👋 I'm Chong Win Yan
 
-## A passionate Software Enginner from Malaysia  
+## A passionate Software Engineer from Malaysia  
 
 - 🌱 I’m currently working on my [final year project](https://github.com/cwyyy190/Final-Year-Project)  
-- 🌿 I’m currently learning **Android**  
-- 👋 I’m currently look for internship  
+- 👋 I’m currently having internship
 - 🏗️ All of my projects are available at [https://github.com/cwyyy190](https://github.com/cwyyy190)  
-- 📫 How to reach me **cwyyy190@gmail.com**  
+- 📫 Reach me via **cwyyy190@gmail.com**  
   
 ### Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-win-yan/)  
